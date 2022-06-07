@@ -1,6 +1,6 @@
 # Sasha Vasylenko
 
-![profile photo](/img/photo.png)
+![profile photo](/img/photo.jpg)
 
 ## Contact information
 - **Location:** Kyiv, Ukraine
