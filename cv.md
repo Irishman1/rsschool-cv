@@ -48,3 +48,8 @@ function bubbleSort(arr) {
   - [Modern JavaScript Tutorial](https://learn.javascript.ru/)
   - [JavaScript для начинающих](https://stepik.org/course/2223/info)
 
+## Language
+* English - Intermediate/Upper-intermediate
+* Ukrainian - Native
+* German - Basic
+* Polish - Basic
