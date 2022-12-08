@@ -104,7 +104,7 @@ console.log(quicksort([10, 5, 2, 3]));
 ## Experience:
 
 - Copywriter (5 months)
-- Writing texts on legal/medical/tourist topics
+  - Writing texts on legal/medical/tourist topics
 - JavaScript Developer (6 months)
   - Creating websites using React, Redux, NextJS.
 
